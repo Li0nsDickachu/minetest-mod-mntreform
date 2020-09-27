@@ -3,9 +3,10 @@ It also adds the components that the computer is made of.
 
 Some of the code is dependent on certain mineclone2 mods, so most of the functionality would likely break without mineclone2 active. It would still be possible to spawn the items.
 
-To install this mod simply unzip the mntreform file and move it into the mods directory of your minetest.
+To install this mod simply unzip the mntreform file and move it into the mods directory of your minetest version.
 
 You can contact the developer Li0n for any reasons on irc or through email.
+
 
 License of source code:
 -----------------------
@@ -18,19 +19,14 @@ the Free Software Foundation; either version 3.0 of the License, or
 
 http://www.gnu.org/licenses/lgpl-3.0.html
 
-License of media (sounds)
---------------------------------------
 
-
-Authors of media files
+MNT Reform
 -----------------------
+[insert plug for the mnt computer]
+The mnt reform is a fully open-source laptop with easily replacable and customizable parts
+https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html
 
-mnt something?
-voice acting:
-music:
-
-
-
-
+pre-order a reform here:
+https://www.crowdsupply.com/mnt/reform
 
 
