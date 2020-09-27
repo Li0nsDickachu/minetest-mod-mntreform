@@ -5,7 +5,7 @@ Some of the code is dependent on certain mineclone2 mods, so most of the functio
 
 To install this mod simply unzip the mntreform file and move it into the mods directory of your minetest version.
 
-You can contact the developer Li0n for any reasons on irc or through email.
+You can contact the developer Li0n for any reasons on Freenode irc or through email.
 
 
 License of source code:
