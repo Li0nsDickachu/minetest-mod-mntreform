@@ -1,0 +1,2 @@
+This mod adds the MNT computer and a wool wall decoration with the MNT logo.
+It also adds the components that the computer is made of.
