@@ -15,10 +15,10 @@ You can contact the developer Li0n for any reasons on Freenode irc or through em
 MNT Reform
 -----------------------
 [insert plug for the mnt computer]
-The MNT Reform is a fully open-source laptop with easily replacable and customizable parts
+The MNT Reform is a fully open-source laptop with easily replacable and customizable parts:
 https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html
 
-you can pre-order a Reform here:
+You can pre-order a Reform here:
 https://www.crowdsupply.com/mnt/reform
 
 
