@@ -18,7 +18,7 @@ MNT Reform
 The mnt reform is a fully open-source laptop with easily replacable and customizable parts
 https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html
 
-pre-order a reform here:
+you can pre-order a reform here:
 https://www.crowdsupply.com/mnt/reform
 
 
