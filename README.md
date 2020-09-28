@@ -1,6 +1,6 @@
-This mod adds a minetest version of the MNT computer and a wool wall decoration with the MNT logo.
+This mod adds a minetest version of the MNT Reform computer and a wool wall decoration with the MNT logo.
 It also adds the components that the computer is made of.
-To install this mod simply place a folder with these files into the mods directory of your minetest version.
+To install this mod simply place a folder with these files into the mods directory of your Minetest version.
 
 Some of the code is dependent on certain MineClone2 mods, so most of the functionality would likely break without MineClone2 active. It would still be possible to spawn the items.
 MineClone2 game download available here:
@@ -15,10 +15,10 @@ You can contact the developer Li0n for any reasons on Freenode irc or through em
 MNT Reform
 -----------------------
 [insert plug for the mnt computer]
-The mnt reform is a fully open-source laptop with easily replacable and customizable parts
+The MNT Reform is a fully open-source laptop with easily replacable and customizable parts:
 https://mntre.com/media/reform_md/2020-05-08-the-much-more-personal-computer.html
 
-pre-order a reform here:
+You can pre-order a Reform here:
 https://www.crowdsupply.com/mnt/reform
 
 
