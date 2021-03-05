@@ -6,6 +6,7 @@ minetest.register_node("mntreform:mnt_wallcarpet", {
     wield_image = "mntreform_mntlogo.png",
     wield_scale = { x=1, y=1, z=0.5 },
     visual_scale = 1.0, 
+    use_texture_alpha = "clip", 
     
 
     sounds = {
